@@ -1,2 +1,2 @@
-# Proyecto Aplicad
+# Proyecto Aplicado
 ## Dashboard
